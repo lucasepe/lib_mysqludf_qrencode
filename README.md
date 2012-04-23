@@ -39,7 +39,7 @@ At mysql commandline prompt, type:
 To list all installed functions
 -------------------------------
 
-At mysql commandline prompt, type__
+At mysql commandline prompt, type:
 
     SELECT  FROM mysql.func;
 
