@@ -52,8 +52,8 @@ Once installed, to create a QRCode (PNG image) on the fly:
 
 The `SELECT` will return a blob containing your PNG image.
 
-A Simple python script showing how to use MySQL UDF qrencode function
----------------------------------------------------------------------
+Python script showing how to use MySQL qrencode UDF
+---------------------------------------------------
 
     import MySQLdb as mdb 
     import sys
@@ -75,8 +75,7 @@ A Simple python script showing how to use MySQL UDF qrencode function
         print "Error %d: %s" % (e.args[0],e.args[1])
 
 
-_Maybe it will be useless or maybe not! who knows!_ 
-_I wrote this custom MySQL UDF just for fun...let me know if you like it!
+_Maybe it will be useless or maybe not! who knows! I wrote this custom MySQL UDF just for fun...let me know if you like it!
 
 
 
