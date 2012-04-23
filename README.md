@@ -75,7 +75,7 @@ Python script showing how to use MySQL qrencode UDF
         print "Error %d: %s" % (e.args[0],e.args[1])
 
 
-_Maybe it will be useless or maybe not! who knows! I wrote this custom MySQL UDF just for fun...let me know if you like it!
+_Maybe it will be useless or maybe not! who knows! I wrote this custom MySQL UDF just for fun...let me know if you like it!_
 
 
 
